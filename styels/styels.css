@@ -1,0 +1,184 @@
+
+
+.azeret-mono-font {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+    list-style: none;
+    
+}
+.dark-1{
+    color: #0D1321;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 28px;
+
+}
+
+
+.dark-2{
+    border-radius: 5px;
+    font-size: 12px;
+    
+    
+}
+
+.div-1 {
+    height: 652px;
+    background-image: url(/Hero-bg.png);
+    
+}
+
+
+.Image-1{
+    display: block;
+    margin: auto;
+    position: relative;
+    top: 70px;
+    /* margin-left: auto;
+    margin-right: auto; */
+
+}
+.Styels-h2{
+    /* display: block;
+    margin: auto; */
+   
+    font-weight: bolder;
+    font-size: 30px;
+    height: 136px;
+    width: 700px;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 135px;
+}
+.design-p{
+    text-align: center;
+    height: 52px;
+    width: 552px;
+    margin-left: 320px;
+    font-size: 10px;
+    color: rgba(13, 19, 33, 0.5)
+}
+.Styel-button{
+
+    display: block;
+    margin: auto;
+    padding: 10px 10px;
+    color: #FFFFFF;
+    background-color: #0D1321;
+    border: none;
+    border-radius: 5px;
+}
+.h2-styels{
+    text-align: center;
+}
+.p-styels{
+    text-align: center;
+    width: 525px;
+    height:50px ;
+    margin-left: 350px;
+    color: rgba(13, 19, 33, 0.5);
+    font-size: 10px;
+}
+.div-correction{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 350px;
+    align-items: center;
+}
+.Learn-styels{
+    text-decoration: none;
+    color:rgba(13, 19, 33, 1);
+    border: 1px solid ;
+    padding: 5px 20px;
+    font-size: 10px;
+}
+.back-color{
+    background-color: rgba(13, 19, 33, 0.02);
+    width: 1300px;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    
+}
+ .combine{
+    display: flex;
+    justify-content: space-evenly;
+     margin: 0px 250px 0px 250px;
+} 
+.fixing-area{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(255, 76, 30, 0.05);
+}
+.fixing-area-1{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(0, 76, 232, 0.05);
+
+}
+.fixing-area-2{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(255, 223, 0, 0.05);
+}
+.learn-more{
+
+color: rgba(13, 19, 33, 1);
+font-size: 10px;
+
+
+}
+.h2-color{
+    color: rgba(13, 19, 33, 0.8);
+    font-size: 20px;
+}
+.p-color{
+    color: rgba(13, 19, 33, 0.5);
+    font-size: 10px;
+}
+.last-part{
+    background-image: url(/handshake.jpg);
+    background-size: 1000px 313px;
+    height: 230px;
+    margin: 100px 150px;
+    border-radius: 10px;
+}
+.h2-styels-2{
+    
+    text-align: center;
+    color: #FFFFFF;
+    
+}
+.p-styels-2{
+   text-align: center;
+   color: #FFFFFF;
+   font-size: 10px;
+   margin-top: 50px;
+
+}
+.input-st{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+}
+footer input{
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    font-size: 10px;
+}
+footer button {
+    margin-left: 20px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 700;
+}
